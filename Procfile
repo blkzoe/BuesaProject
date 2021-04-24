@@ -1,0 +1,1 @@
+web: gunicorn BuesaBlog.wsgi —log-file -
